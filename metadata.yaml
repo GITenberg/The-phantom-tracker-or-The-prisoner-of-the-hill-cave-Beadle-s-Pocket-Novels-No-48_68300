@@ -1,11 +1,16 @@
 _repo: The-phantom-tracker-or-The-prisoner-of-the-hill-cave-Beadle-s-Pocket-Novels-No-48_68300
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68300-h/images/cover-small.jpg
 creator:
   author:
     agent_name: Dewey, Fredrick
     gutenberg_agent_id: '54705'
     url: http://www.gutenberg.org/2009/agents/54705
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68300#The-phantom-tracker-or-The-prisoner-of-the-hill-cave-Beadle-s-Pocket-Novels-No-48
 gutenberg_issued: '2022-06-12'
 identifiers:
   gutenberg: '68300'
